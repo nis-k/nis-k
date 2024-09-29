@@ -1,5 +1,5 @@
 # Hey There! I'm Nisarga! 👋
-![Banner Image](GitHub-Profile-Banner.png)
+![Banner Image](GitHub-Profile-Banner-Narrow.png)
 ## About Me 🚀
 I'm a passionate & adaptive **developer** with professional experience in **Python**. I love building things through code!
 
