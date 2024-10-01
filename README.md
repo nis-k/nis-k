@@ -14,7 +14,7 @@ I'm a passionate & adaptive **developer** with professional experience in **Pyth
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 - Check out my [CV]()!
-- Or if you need a shorter summary here's my [resume]()
+- Or if you need a shorter summary here's my [resume](https://drive.google.com/file/d/13NcPROUOqeQUPPJF42XqiLjdSMT4mFzl/view?usp=sharing)
 
 ## Get in Touch 📬
 - [LinkedIn](www.linkedin.com/in/nis-k)
