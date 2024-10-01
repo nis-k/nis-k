@@ -7,6 +7,7 @@ I'm a passionate & adaptive **developer** with professional experience in **Pyth
 - 🔭 **Working on**: A Full-Stack _Blog_ Web Application
 - 🌍 **Languages**: Python, HTML, CSS, JavaScript, Java
 - ⚡ **Fun fact**: I used to be a state-level sprinter :)
+- 💼 **Professional Experience**: [Anakin](Professional-Experience/Anakin.md)
 
 ## My Skills 🧠
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -17,6 +18,6 @@ I'm a passionate & adaptive **developer** with professional experience in **Pyth
 
 ## Get in Touch 📬
 - [LinkedIn](www.linkedin.com/in/nis-k)
-- **email**: nisargakrishnappa@gmail.com
+- nisargakrishnappa@gmail.com
 
 **P.S.:** _Why aren't my contributions to private company repos lighting up my GitHub heatmap? If only GitHub could see all the work I’ve put in!_ 😓
