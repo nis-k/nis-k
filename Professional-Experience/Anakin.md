@@ -22,7 +22,7 @@
   - Set up **CloudWatch Alarms** to enable dynamic auto-scaling
   - _and more..._
 - **Git/GitHub**: Utilised `git` and GitHub for version control and collaboration
-- **Crontab**: Used the full power of cron jobs to schedule
+- **Crontab**: Fully utilized cron to schedule and automate recurring jobs
 - **CI/CD**: Implemented pipeline setups for seemless data delivery
 - **Docker**: Containerized every solution using Docker for easy deployment
 - **Time Management**: Worked in a fast-paced **startup** environment, managing 11+ hour workdays, daily commutes, and tight deadlines—always delivering to clients' expectations in record time! 😉
@@ -31,14 +31,14 @@
 **NOTE**: The following are projects that I took _**complete ownership**_ of and delivered under highly challenging **time-sensitive** deadlines.
 Each project is an **end-to-end** system, including _automatic data-delivery_ pipelines :)
 
-### 🐼 Foodpanda scraper:
+### 🥪 Food Web App scraper:
 Designed and developed a data scraping solution to extract restaurant information based on client specifications. The scraper captured key details, including restaurant name, estimated delivery time (ETA), price range, small cart fee, delivery fee, ratings, menu items, and more.
 
-### 🛒 Dmart scraper:
-Developed a solution to verify the serviceability of Dmart stores using store IDs and latitude/longitude coordinates provided by the client. Delivered comprehensive data including store names and detailed product information such as product name, product ID, description, pricing (MRP, Dmart price, savings), ingredients, shelf life, storage instructions, and dietary labels.
+### 🛒 An eStore scraper:
+Developed a solution to verify the serviceability of all stores using store IDs and latitude/longitude coordinates provided by the client. Delivered comprehensive data including store names and detailed product information such as product name, product ID, description, pricing (MRP, eStore price, savings), ingredients, shelf life, storage instructions, and dietary labels.
 
-### 📱 Flipkart scraper:
+### 📱 An eCommerce scraper:
 #### Exchange details 📦:
-Developed an API-based data scraping solution to extract and deliver exchange details for Flipkart products, including product availability, exchange options, and pricing for each combo. Ensured data accuracy and completeness, meeting client specifications for daily delivery at a specified time.
+Developed an API-based data scraping solution to extract and deliver exchange details for listed products, including product availability, exchange options, and pricing for each combo. Ensured data accuracy and completeness, meeting client specifications for daily delivery at a specified time.
 #### Minutes ⏲️:
-Created a data scraping solution for Flipkart's "Minutes" feature, available exclusively on mobile devices. Extracted product data based on client-specified categories, capturing essential details such as product ID, name, pricing, availability by pincode, and estimated delivery time in minutes.
+Created a data scraping solution for the website's "Minutes" feature, available exclusively on mobile devices. Extracted product data based on client-specified categories, capturing essential details such as product ID, name, pricing, availability by pincode, and estimated delivery time in minutes.
