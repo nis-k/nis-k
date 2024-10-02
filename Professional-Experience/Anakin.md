@@ -31,13 +31,13 @@
 **NOTE**: The following are projects that I took _**complete ownership**_ of and delivered under highly challenging **time-sensitive** deadlines.
 Each project is an **end-to-end** system, including _automatic data-delivery_ pipelines :)
 
-### 🥪 Food Web App scraper:
+### 🥪 Food Delivery Platform Scraper:
 Designed and developed a data scraping solution to extract restaurant information based on client specifications. The scraper captured key details, including restaurant name, estimated delivery time (ETA), price range, small cart fee, delivery fee, ratings, menu items, and more.
 
-### 🛒 An eStore scraper:
+### 🛒 eStore Scraper:
 Developed a solution to verify the serviceability of all stores using store IDs and latitude/longitude coordinates provided by the client. Delivered comprehensive data including store names and detailed product information such as product name, product ID, description, pricing (MRP, eStore price, savings), ingredients, shelf life, storage instructions, and dietary labels.
 
-### 📱 An eCommerce scraper:
+### 📱 eCommerce Platform Scraper:
 #### Exchange details 📦:
 Developed an API-based data scraping solution to extract and deliver exchange details for listed products, including product availability, exchange options, and pricing for each combo. Ensured data accuracy and completeness, meeting client specifications for daily delivery at a specified time.
 #### Minutes ⏲️:
