@@ -10,8 +10,9 @@ I'm a passionate & adaptive **developer** with professional experience in **Pyth
 - 💼 **Professional Experience**: [Anakin](Professional-Experience/Anakin.md)
 
 ## CV/Resume 📝
-- Check out my [CV](https://drive.google.com/file/d/1t0CnhTrGmvxFPmqYDjPFTQRLaD5OxUtI/view?usp=sharing)!
-- Or if you need a shorter summary here's my [resume](https://drive.google.com/file/d/13NcPROUOqeQUPPJF42XqiLjdSMT4mFzl/view?usp=sharing)
+- My professional resume - [Resume](https://drive.google.com/file/d/1cVPnFKmYSVx3X8P1A_LpHbBC-_1e0B8l/view?usp=sharing)
+- Check out my detailed [CV](https://drive.google.com/file/d/1t0CnhTrGmvxFPmqYDjPFTQRLaD5OxUtI/view?usp=sharing)!
+- Or if you need a shorter summary here's my [personalized resume](https://drive.google.com/file/d/13NcPROUOqeQUPPJF42XqiLjdSMT4mFzl/view?usp=sharing)
 
 ## My Skills 🧠
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
