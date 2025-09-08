@@ -4,10 +4,10 @@
 I'm a passionate & adaptive **developer** with professional experience in **Python**. I love building things through code!
 
 - 🌱 Currently _learning_ **full stack development**
-- 🔭 **Working on**: A Full-Stack _Blog_ Web Application
-- 🌍 **Languages**: Python, HTML, CSS, JavaScript, Java
+- 🔭 **Working on**: The Keystone Team at NetApp
+- 🌍 **Languages**: _Primary_: Python, Go | _Secondary_: HTML, CSS, JavaScript, Java, C, C++
 - ⚡ **Fun fact**: I used to be a state-level sprinter :)
-- 💼 **Professional Experience**: [Anakin](Professional-Experience/Anakin.md)
+- 💼 **Professional Experience**: [NetApp (_via DTL_)](Professional-Experience/Anakin.md) | [Anakin](Professional-Experience/Anakin.md)
 
 ## CV/Resume 📝
 - My professional resume - [Resume](https://drive.google.com/file/d/1cVPnFKmYSVx3X8P1A_LpHbBC-_1e0B8l/view?usp=sharing)
@@ -16,6 +16,7 @@ I'm a passionate & adaptive **developer** with professional experience in **Pyth
 
 ## My Skills 🧠
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- ![Go](https://img.shields.io/badge/Go-006F6B?style=for-the-badge&logo=go&logoColor=white)
 - ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
